@@ -8,7 +8,7 @@
 <div>
   <h2 align="center">The User Screen:</h2>
   <p align="center">
-    <img src="application-details/user-scrren.jpg" width="50%" height="50%">
+    <img src="Design/application-details/user-screen.jpg" width="50%" height="50%">
   </p>
 </div>
 
@@ -17,7 +17,7 @@
 <div>
   <h2 align="center">The Options Screen:</h2>
   <p align="center">
-    <img src="application-details/options-screen.jpg" width="50%" height="50%">
+    <img src="Design/application-details/options-screen.jpg" width="50%" height="50%">
   </p>
 </div>
 
@@ -26,6 +26,6 @@
 <div>
   <h2 align="center">A Example Screen:</h2>
   <p align="center">
-    <img src="application-details/example-screen.jpg" width="50%" height="50%">
+    <img src="Design/application-details/example-screen.jpg" width="50%" height="50%">
   </p>
 </div>
