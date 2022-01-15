@@ -1,7 +1,5 @@
 #System for a pizza restaurant, managing orders, employees, products, ingredients, customers and tables. #
 
-DER: 6 tables;
-
 CREATE DATABASE bd_pizzaria;
 
 USE bd_pizzaria;
