@@ -15,9 +15,7 @@ public class PinDAO {
     PinDTO objPinDTO = new PinDTO();
     
     private int pin = objPinDTO.getKey();
-    
-
-    
+  
     public int getPin(PinDTO objPin) {
         if(objPin.getPin() == pin) {
             return this.pin;
