@@ -11,7 +11,7 @@ package DTO;
  */
 public class PinDTO {
     private int pin;
-    private static int key = 1421;
+    private final static int key = 1421;
     
     public void setPin(int pin) {
         this.pin = pin;
