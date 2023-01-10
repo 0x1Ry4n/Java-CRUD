@@ -1,4 +1,3 @@
-# CRUD-Java
 <h1>Simple pizzeria system made in Java</h1>
 
 <h4><ul><li>With that basic system it's possible to create, update, search and delete records from a mysql database. The central idea involves the implementation of functionalities that practically any system of pizzeria needs.</li></ul></h4>
